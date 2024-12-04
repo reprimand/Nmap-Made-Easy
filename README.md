@@ -1,6 +1,6 @@
 # Nmap Made Easy
 
-**Nmap Made Easy** is a Python based Nmap tool that simplifies network scanning. Designed for beginners, it guides you step-by-step through the process of creating and executing  Nmap commands.
+**Nmap Made Easy** is a Python based Nmap tool that simplifies network scanning. Made for beginners, it guides you step-by-step through the process of creating and executing  Nmap commands.
 
 ## Requirements
 
